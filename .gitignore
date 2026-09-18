@@ -1,0 +1,15 @@
+# Environment / secrets
+.env
+
+# Dependencies
+vendor/
+
+# Local configuration
+config/database.php
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
